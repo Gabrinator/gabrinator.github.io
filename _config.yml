@@ -18,7 +18,7 @@ title: My Awesome Site
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://gabrinator.github.io"
+url: https://gabrinator.github.io
 author:
   name:
   twitter:
