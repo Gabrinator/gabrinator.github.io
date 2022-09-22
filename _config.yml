@@ -19,7 +19,6 @@ email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://gabrinator.github.io"
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 author:
   name:
   twitter:
@@ -38,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
