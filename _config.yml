@@ -1,3 +1,5 @@
+remote-theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+
 title:              Gabriel's Blog
 email:              gabriel.frechette@gmail.com
 description:        Just a dude rambling on
