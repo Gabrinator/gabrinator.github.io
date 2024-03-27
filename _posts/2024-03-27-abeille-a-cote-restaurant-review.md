@@ -14,19 +14,19 @@ From the moment you step through its doors, it exudes warmth and sophistication.
 
 Now, let's talk about the food—the true star of the show. We kicked things off with the Sourdough Bread and Miso Butter, a simple yet delightful start to our meal. The Kabocha Squash appetizer, featuring Mimolette and Black Truffle, was an interesting flavor combination. I had never heard of Kabocha Squash, but a generous amount of black truffle on top of creamy cheese - always a good pairing - and the texture from the squash made for a very enjoyable starter.
 
-![](/img/abeille-a-cote/abeille-a-cote-squash.jpg)
+![](/img/posts/abeille-a-cote/abeille-a-cote-squash.jpg)
 
 For the main courses, I elected the Crispy Braised Pork Belly, paired with Baby Carrots and Gastrique. It's tough to go wrong here. The pork belly was perfectly executed, juicy without feeling fatty, with perfect crispy crackling on top. The carrots and gastrique rounded off the meal nicely. And of course, the presentation was also top-notch.
 
-![](img/abeille-a-cote-pork-belly.jpg "Pork Belly with Carrots and Gastrique")
+![](img/posts/abeille-a-cote-pork-belly.jpg "Pork Belly with Carrots and Gastrique")
 
 The real showstopper, however, in my opinion, was the vol-au-vent with Scallops, Mushrooms, and Beurre Blanc. I grew up eating my mom's vol-au-vents, which for my family was always a simple midweek meal: leftover chicken, sauce from a packet, boiled carrots haphazardly spooned on top of grocery-store vol-au-vent pastry. L'Abeille à Côté manages to truly elevate this dish to a new level. A large, almost certainly made in-house pastry filled with a variety of mushrooms (I remember our waiter mentioning morel mushrooms amongst other varieties), topped with scallops seared to perfection and surrounded by a rich beurre-blanc sauce. Just writing these words is making me salivate. If I had to recommend one dish, it's this one.
 
-![](/img/abeille-a-cote/abeille-a-cote-vol-au-vent.jpg)
+![](/img/posts/abeille-a-cote/abeille-a-cote-vol-au-vent.jpg)
 
 To finish our meal, we chose the Fondant au chocolat with Kampot Pepper Ice cream. A  classic crowd-pleaser with a nice twist in the Kampot Pepper Ice Cream, which balanced out the sweetness from the Fondant nicely. 
 
-![](img/abeille-a-cote/abeille-a-cote-chocolate-fondant.jpg)
+![](img/posts/abeille-a-cote/abeille-a-cote-chocolate-fondant.jpg)
 
 Service at L'Abeille à Côté is nothing short of exceptional. We felt pampered from the moment we stepped in. The waiters whisk away plates and replace utensils after each course, barely making themselves noticeable. Our waiter had excellent recommendations when it came to wine pairings. 
 
